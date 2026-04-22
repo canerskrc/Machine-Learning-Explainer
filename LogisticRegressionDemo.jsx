@@ -291,9 +291,7 @@ export default function LogisticRegressionDemo() {
           Logistic regression, <em>seen as probability</em>.
         </h1>
         <p className="log-lede">
-          Bu demo artık bir çizgi uydurmuyor; bir noktanın Class 1 olma olasılığını hesaplıyor.
-          Noktaları sürükle, yeni örnekler ekle, threshold değiştir ve sigmoid eğrisinin karar
-          mantığını canlı olarak izle.
+          
         </p>
 
         <div className="log-tabs">
